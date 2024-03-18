@@ -1,4 +1,4 @@
-module ecdsa
+module mulSig
 
 go 1.20
 
